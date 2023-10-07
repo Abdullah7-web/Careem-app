@@ -1,4 +1,4 @@
-pandas as pf
+pandas as pd
 numpy as numpy
 matplotlib.pyplot as plt
 seaborn as sns
